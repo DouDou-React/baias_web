@@ -1,0 +1,37 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 13px 28px 16px 0;
+  color: $base-font-color;
+  line-height: 31px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.search {
+  margin: 13px 0 0 0;
+}
+
+.avatar {
+  background: $base-font-color;
+  cursor: pointer;
+  margin: -8px 20px 0 0;
+}
+
+.user {
+  color: $base-font-color;
+  margin: -10px 20px 0 0;
+}
+
+.logout {
+  color: $base-font-color;
+  margin: -10px 0 0 0;
+  cursor: pointer;
+}
+
+.header {
+  background: #fff;
+  border-bottom: 7px solid #f0f2f5;
+}
